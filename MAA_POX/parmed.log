@@ -1,0 +1,6 @@
+# Log started on 06/13/2022 [mm/dd/yyyy] at 18:06:16
+# Command line arguments: MAA_POX.parm7
+# Loaded topologies: MAA_POX.parm7
+hmassrepartition
+outparm MAA_POX_HMR.parm7
+quit
