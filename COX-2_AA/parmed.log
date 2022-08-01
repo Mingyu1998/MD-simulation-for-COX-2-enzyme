@@ -1,0 +1,6 @@
+# Log started on 06/14/2022 [mm/dd/yyyy] at 17:09:33
+# Command line arguments: AA.parm7
+# Loaded topologies: AA.parm7
+hmassrepartition
+outparm AA_HMR.parm7
+quit
