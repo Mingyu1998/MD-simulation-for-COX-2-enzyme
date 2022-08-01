@@ -1,1 +1,1 @@
-# MD-simulation-for-COX-2-enzymer
+# MD-simulation-for-COX-2-enzyme
