@@ -1,0 +1,152 @@
+ Entering Gaussian System, Link 0=g16
+ Initial command:
+ /Applications/g16/l1.exe "/Users/mingyu/Desktop/Drug/Gau-45120.inp" -scrdir="/Users/mingyu/Desktop/Drug/"
+ Entering Link 1 = /Applications/g16/l1.exe PID=     45121.
+  
+ Copyright (c) 1988,1990,1992,1993,1995,1998,2003,2009,2016,
+            Gaussian, Inc.  All Rights Reserved.
+  
+ This is part of the Gaussian(R) 16 program.  It is based on
+ the Gaussian(R) 09 system (copyright 2009, Gaussian, Inc.),
+ the Gaussian(R) 03 system (copyright 2003, Gaussian, Inc.),
+ the Gaussian(R) 98 system (copyright 1998, Gaussian, Inc.),
+ the Gaussian(R) 94 system (copyright 1995, Gaussian, Inc.),
+ the Gaussian 92(TM) system (copyright 1992, Gaussian, Inc.),
+ the Gaussian 90(TM) system (copyright 1990, Gaussian, Inc.),
+ the Gaussian 88(TM) system (copyright 1988, Gaussian, Inc.),
+ the Gaussian 86(TM) system (copyright 1986, Carnegie Mellon
+ University), and the Gaussian 82(TM) system (copyright 1983,
+ Carnegie Mellon University). Gaussian is a federally registered
+ trademark of Gaussian, Inc.
+  
+ This software contains proprietary and confidential information,
+ including trade secrets, belonging to Gaussian, Inc.
+  
+ This software is provided under written license and may be
+ used, copied, transmitted, or stored only in accord with that
+ written license.
+  
+ The following legend is applicable only to US Government
+ contracts under FAR:
+  
+                    RESTRICTED RIGHTS LEGEND
+  
+ Use, reproduction and disclosure by the US Government is
+ subject to restrictions as set forth in subparagraphs (a)
+ and (c) of the Commercial Computer Software - Restricted
+ Rights clause in FAR 52.227-19.
+  
+ Gaussian, Inc.
+ 340 Quinnipiac St., Bldg. 40, Wallingford CT 06492
+  
+  
+ ---------------------------------------------------------------
+ Warning -- This program may not be used in any manner that
+ competes with the business of Gaussian, Inc. or will provide
+ assistance to any competitor of Gaussian, Inc.  The licensee
+ of this program is prohibited from giving any competitor of
+ Gaussian, Inc. access to this program.  By using this program,
+ the user acknowledges that Gaussian, Inc. is engaged in the
+ business of creating and licensing software in the field of
+ computational chemistry and represents and warrants to the
+ licensee that it is not a competitor of Gaussian, Inc. and that
+ it will not use this program in any manner prohibited above.
+ ---------------------------------------------------------------
+  
+
+ Cite this work as:
+ Gaussian 16, Revision A.03,
+ M. J. Frisch, G. W. Trucks, H. B. Schlegel, G. E. Scuseria, 
+ M. A. Robb, J. R. Cheeseman, G. Scalmani, V. Barone, 
+ G. A. Petersson, H. Nakatsuji, X. Li, M. Caricato, A. V. Marenich, 
+ J. Bloino, B. G. Janesko, R. Gomperts, B. Mennucci, H. P. Hratchian, 
+ J. V. Ortiz, A. F. Izmaylov, J. L. Sonnenberg, D. Williams-Young, 
+ F. Ding, F. Lipparini, F. Egidi, J. Goings, B. Peng, A. Petrone, 
+ T. Henderson, D. Ranasinghe, V. G. Zakrzewski, J. Gao, N. Rega, 
+ G. Zheng, W. Liang, M. Hada, M. Ehara, K. Toyota, R. Fukuda, 
+ J. Hasegawa, M. Ishida, T. Nakajima, Y. Honda, O. Kitao, H. Nakai, 
+ T. Vreven, K. Throssell, J. A. Montgomery, Jr., J. E. Peralta, 
+ F. Ogliaro, M. J. Bearpark, J. J. Heyd, E. N. Brothers, K. N. Kudin, 
+ V. N. Staroverov, T. A. Keith, R. Kobayashi, J. Normand, 
+ K. Raghavachari, A. P. Rendell, J. C. Burant, S. S. Iyengar, 
+ J. Tomasi, M. Cossi, J. M. Millam, M. Klene, C. Adamo, R. Cammi, 
+ J. W. Ochterski, R. L. Martin, K. Morokuma, O. Farkas, 
+ J. B. Foresman, and D. J. Fox, Gaussian, Inc., Wallingford CT, 2016.
+ 
+ ******************************************
+ Gaussian 16:  EM64M-G16RevA.03 25-Dec-2016
+                10-Mar-2022 
+ ******************************************
+ %nprocshared=4
+ Will use up to    4 processors via shared memory.
+ %chk=resp.chk
+ -----------------------------------------------------------
+ #p hf/6-31g(d) pop=mk iop(6/33=2,6/41=10,6/42=17) scf=tight
+ -----------------------------------------------------------
+ 1/38=1,172=1/1;
+ 2/12=2,17=6,18=5,40=1/2;
+ 3/5=1,6=6,7=1,11=9,25=1,30=1/1,2,3;
+ 4//1;
+ 5/5=2,32=2,38=5/2;
+ 6/7=2,8=2,9=2,10=2,15=8,20=1,28=1,33=2,41=10,42=17/1,2;
+ 99/5=1,9=1/99;
+ Leave Link    1 at Thu Mar 10 13:00:22 2022, MaxMem=           0 cpu:               0.1 elap:               0.1
+ (Enter /Applications/g16/l101.exe)
+ -------------------
+ Title Card Required
+ -------------------
+ Symbolic Z-matrix:
+ Charge =  0 Multiplicity = 1
+ C(PDBName=C1,ResName=RCX,ResNum=1_A) -2.56011  -0.71674   0.00887 
+ C(PDBName=C2,ResName=RCX,ResNum=1_A) -1.40473  -1.43604   0.05372 
+ C(PDBName=C3,ResName=RCX,ResNum=1_A) -1.73778  -2.91551   0.05842 
+ C(PDBName=C4,ResName=RCX,ResNum=1_A) -3.70772  -1.66989  -0.07543 
+ O(PDBName=O5,ResName=RCX,ResNum=1_A) -3.195    -2.97518  -0.0345 
+ O(PDBName=O6,ResName=RCX,ResNum=1_A) -4.90948  -1.44948  -0.17384 
+ C(PDBName=C7,ResName=RCX,ResNum=1_A) -2.79144   0.73664   0.0831 
+ C(PDBName=C8,ResName=RCX,ResNum=1_A) -2.04299   1.5449    0.96398 
+ C(PDBName=C9,ResName=RCX,ResNum=1_A) -2.27842   2.91842   1.04293 
+ C(PDBName=C10,ResName=RCX,ResNum=1_A) -3.26769   3.50999   0.24664 
+ C(PDBName=C11,ResName=RCX,ResNum=1_A) -4.02646   2.71569  -0.61985 
+ C(PDBName=C12,ResName=RCX,ResNum=1_A) -3.79806   1.33897  -0.69884 
+ C(PDBName=C13,ResName=RCX,ResNum=1_A) -0.0002   -0.99525   0.02049 
+ C(PDBName=C14,ResName=RCX,ResNum=1_A)  0.39626   0.11418  -0.75955 
+ C(PDBName=C15,ResName=RCX,ResNum=1_A)  1.73762   0.49247  -0.83256 
+ C(PDBName=C16,ResName=RCX,ResNum=1_A)  2.67073  -0.24334  -0.10784 
+ C(PDBName=C17,ResName=RCX,ResNum=1_A)  2.33395  -1.35784   0.6502 
+ C(PDBName=C18,ResName=RCX,ResNum=1_A)  0.98832  -1.73148   0.70911 
+ S(PDBName=S19,ResName=RCX,ResNum=1_A)  4.47789   0.24845  -0.21204 
+ O(PDBName=O20,ResName=RCX,ResNum=1_A)  4.68409   1.05519  -1.63028 
+ O(PDBName=O21,ResName=RCX,ResNum=1_A)  5.36345  -1.08402   0.1705 
+ C(PDBName=C22,ResName=RCX,ResNum=1_A)  4.71804   1.50476   1.18834 
+ H(PDBName=H,ResName=RCX,ResNum=1_A) -1.43762  -3.42989   0.97742 
+ H(PDBName=H,ResName=RCX,ResNum=1_A) -1.31268  -3.4461   -0.79914 
+ H(PDBName=H,ResName=RCX,ResNum=1_A) -1.29035   1.08924   1.59834 
+ H(PDBName=H,ResName=RCX,ResNum=1_A) -1.69978   3.52505   1.73223 
+ H(PDBName=H,ResName=RCX,ResNum=1_A) -3.45156   4.57763   0.31002 
+ H(PDBName=H,ResName=RCX,ResNum=1_A) -4.80243   3.16502  -1.23079 
+ H(PDBName=H,ResName=RCX,ResNum=1_A) -4.40589   0.72514  -1.35166 
+ H(PDBName=H,ResName=RCX,ResNum=1_A) -0.34664   0.66421  -1.32372 
+ H(PDBName=H,ResName=RCX,ResNum=1_A)  2.06078   1.31421  -1.46216 
+ H(PDBName=H,ResName=RCX,ResNum=1_A)  3.10677  -1.92898   1.15284 
+ H(PDBName=H,ResName=RCX,ResNum=1_A)  0.70876  -2.59616   1.30101 
+ H(PDBName=H,ResName=RCX,ResNum=1_A)  4.05029   2.34092   0.9874 
+ H(PDBName=H,ResName=RCX,ResNum=1_A)  5.76503   1.7999    1.13412 
+ H(PDBName=H,ResName=RCX,ResNum=1_A)  4.48874   0.99278   2.12144 
+ 
+ ITRead=  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+ ITRead=  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+ MicOpt= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+ MicOpt= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+ NAtoms=     36 NQM=       36 NQMF=       0 NMMI=      0 NMMIF=      0
+                NMic=       0 NMicF=      0.
+ Error parsing secondary structure:
+ QPErr --- A syntax error was detected in the input line.
+  1 2 1.5 4 1.5 7 1.0
+  '
+ Last state= "Top"
+ TCursr=       101 LCursr=         1
+ Error termination via Lnk1e in /Applications/g16/l101.exe at Thu Mar 10 13:00:22 2022.
+ Job cpu time:       0 days  0 hours  0 minutes  0.5 seconds.
+ Elapsed time:       0 days  0 hours  0 minutes  0.2 seconds.
+ File lengths (MBytes):  RWF=      6 Int=      0 D2E=      0 Chk=      1 Scr=      1

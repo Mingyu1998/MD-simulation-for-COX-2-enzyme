@@ -1,0 +1,45 @@
+%chk=RCX_resp.chk
+%nprocshared=4
+#p hf/6-31g(d) pop=mk iop(6/33=2,6/41=10,6/42=17) scf=tight
+
+MODEL 1
+
+0 1
+ C(PDBName=C1,ResName=RCX,ResNum=601_A)               -2.59511027   -0.68999440   -0.01516776
+ C(PDBName=C2,ResName=RCX,ResNum=601_A)               -1.39545867   -1.52074421    0.02327314
+ C(PDBName=C3,ResName=RCX,ResNum=601_A)               -1.82025932   -2.82076017    0.01985781
+ C(PDBName=C4,ResName=RCX,ResNum=601_A)               -3.63339298   -1.59189184   -0.04568386
+ O(PDBName=O5,ResName=RCX,ResNum=601_A)               -3.19108811   -2.86517513   -0.02714481
+ O(PDBName=O6,ResName=RCX,ResNum=601_A)               -4.94958557   -1.39299950   -0.06839612
+ C(PDBName=C7,ResName=RCX,ResNum=601_A)               -2.71550168    0.77368908    0.06982294
+ C(PDBName=C8,ResName=RCX,ResNum=601_A)               -1.84174226    1.52770165    0.87781543
+ C(PDBName=C9,ResName=RCX,ResNum=601_A)               -1.96391629    2.91545380    0.96311052
+ C(PDBName=C10,ResName=RCX,ResNum=601_A)              -2.96766766    3.58183530    0.25211220
+ C(PDBName=C11,ResName=RCX,ResNum=601_A)              -3.84929941    2.84437712   -0.54466284
+ C(PDBName=C12,ResName=RCX,ResNum=601_A)              -3.72313439    1.45674190   -0.63840183
+ C(PDBName=C13,ResName=RCX,ResNum=601_A)               0.01100201   -1.09026374   -0.01652987
+ C(PDBName=C14,ResName=RCX,ResNum=601_A)               0.41275623   -0.02137619   -0.84161529
+ C(PDBName=C15,ResName=RCX,ResNum=601_A)               1.74753319    0.36975522   -0.90213723
+ C(PDBName=C16,ResName=RCX,ResNum=601_A)               2.69083884   -0.31268482   -0.12897819
+ C(PDBName=C17,ResName=RCX,ResNum=601_A)               2.32498409   -1.38446370    0.68818851
+ C(PDBName=C18,ResName=RCX,ResNum=601_A)               0.98516623   -1.76419914    0.74413001
+ S(PDBName=S19,ResName=RCX,ResNum=601_A)               4.40658906    0.19274879   -0.19359692
+ O(PDBName=O20,ResName=RCX,ResNum=601_A)               4.64244779    0.85593483   -1.49060854
+ O(PDBName=O21,ResName=RCX,ResNum=601_A)               5.24138977   -0.96236869    0.18914907
+ C(PDBName=C22,ResName=RCX,ResNum=601_A)               4.56489437    1.43451791    1.09406817
+ H(PDBName=H3,ResName=RCX,ResNum=601_A)               -1.30535443   -3.77578125   -0.01058720
+ H(PDBName=H6,ResName=RCX,ResNum=601_A)               -5.41464919   -2.23812273    0.04021004
+ H(PDBName=H8,ResName=RCX,ResNum=601_A)               -1.06607392    1.01873761    1.45197127
+ H(PDBName=H9,ResName=RCX,ResNum=601_A)               -1.27442426    3.47964833    1.59601182
+ H(PDBName=H10,ResName=RCX,ResNum=601_A)              -3.06344284    4.66796031    0.32083072
+ H(PDBName=H11,ResName=RCX,ResNum=601_A)              -4.63787537    3.35353083   -1.10433174
+ H(PDBName=H12,ResName=RCX,ResNum=601_A)              -4.40929587    0.89090774   -1.27099802
+ H(PDBName=H14,ResName=RCX,ResNum=601_A)              -0.32838460    0.49773969   -1.44996728
+ H(PDBName=H15,ResName=RCX,ResNum=601_A)               2.06331368    1.18759652   -1.55133118
+ H(PDBName=H17,ResName=RCX,ResNum=601_A)               3.08243336   -1.91030028    1.27106066
+ H(PDBName=H18,ResName=RCX,ResNum=601_A)               0.68363494   -2.58640896    1.39561715
+ H(PDBName=1H22,ResName=RCX,ResNum=601_A)              5.61596674    1.75386880    1.06801206
+ H(PDBName=2H22,ResName=RCX,ResNum=601_A)              3.89489618    2.27165761    0.86244026
+ H(PDBName=3H22,ResName=RCX,ResNum=601_A)              4.31836745    0.97569031    2.05940399
+
+
